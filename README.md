@@ -5,9 +5,10 @@ This repository contains the projects completed during my **CodeAlpha Java Inter
 ---
 
 ## 👤 Intern Information
-*   **Name:** Afifa Nayakawade
-*   **Domain:** Java Development
-*   **Duration:** May 2026 – June 2026
+*   **Name:** Afifa Munnawar Nayakawade
+*   **Domain:** Java Programming
+*   **Duration:** 10th April 2026 – 10 May 2026
+*   **Student ID:** CA/DF1/43441
 *   **Organization:** CodeAlpha
 
 ---

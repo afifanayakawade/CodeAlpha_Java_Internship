@@ -31,7 +31,7 @@ This project is a Java-based **AI Chatbot** developed as part of the CodeAlpha J
 - "Data types in java"
 
  ## 📷 Screenshots
- ![Chatbot Screenshot](screenshot.png)
+ ![Chatbot Screenshot](screenshot(2).png)
 
 ## Author
 * **Name:** AFifa Munnawar Nayakawade

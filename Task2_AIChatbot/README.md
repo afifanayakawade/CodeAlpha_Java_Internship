@@ -35,5 +35,5 @@ This project is a Java-based **AI Chatbot** developed as part of the CodeAlpha J
 
 ## Author
 * **Name:** AFifa Munnawar Nayakawade
-* **Internship ID:** linkedin.com/in/afifa-nayakawade
+* **Internship ID:** CA/DF1/43441
 * **Organization:** CodeAlpha
